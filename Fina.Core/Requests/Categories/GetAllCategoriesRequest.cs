@@ -1,0 +1,4 @@
+class GetAllCategoriesRequest : PagedRequest
+{
+
+}
